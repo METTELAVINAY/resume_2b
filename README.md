@@ -1,6 +1,6 @@
 # Mettela Vinay
 ----------------------
-### Personal Details
+#### Personal Details
  Email:**mettelavinay@gmail.com**
  
  Mobile No- **9505304639**
@@ -9,7 +9,7 @@
  
  Address:**Guntur**
  
- ### Educational Details
+ #### Educational Details
  - B.Tech
     - **RVR&JC College Of Engineering**
     - **CSE**
@@ -28,6 +28,6 @@
    - **java**
    - **python**
    - **GIT AND GITHUB**
-  ##### Certifications:
+  #### Certifications:
    - completerd python For  Python In **coursera**
    - certified by **fullstack** nanodegree in **Udacity**
