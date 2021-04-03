@@ -15,7 +15,6 @@
   - **CSE**
   - **2019-2023**
   - **Guntur,Andhra Pradesh, India**
-  - 
  - Intermediate
   - **Narayana Junior College**
   - **MPC-2017-2019**
