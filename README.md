@@ -11,23 +11,23 @@
  
  ### Educational Details
  - B.Tech
-  - **RVR&JC College Of Engineering**
-  - **CSE**
-  - **2019-2023**
-  - **Guntur,Andhra Pradesh, India**
+    - **RVR&JC College Of Engineering**
+    - **CSE**
+    - **2019-2023**
+    - **Guntur,Andhra Pradesh, India**
  - Intermediate
-  - **Narayana Junior College**
-  - **MPC-2017-2019**
-  - **Amaravathi road,Guntur,Andhra Pradesh**
+   - **Narayana Junior College**
+   - **MPC-2017-2019**
+   - **Amaravathi road,Guntur,Andhra Pradesh**
 - SSC
-  - **Kennedy E.M High School**
-  - **2016-2017**
-  - **Donka Road,Guntur,Andhra Pradesh**
+   - **Kennedy E.M High School**
+   - **2016-2017**
+   - **Donka Road,Guntur,Andhra Pradesh**
  #### Technical Skills
    - **c programmimg**
-  - **java**
-  - **python**
-  - **GIT AND GITHUB**
+   - **java**
+   - **python**
+   - **GIT AND GITHUB**
   ##### Certifications:
    - completerd python For  Python In **coursera**
    - certified by **fullstack** nanodegree in **Udacity**
